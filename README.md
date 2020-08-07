@@ -45,7 +45,7 @@
 <br />
 <br />
 
-<img align="left" alt="Rideen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rideen&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Rideen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rideen&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
 [website]: http://www.iterativesoft.com
 [twitter]: https://twitter.com/_Rideen_

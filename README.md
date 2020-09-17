@@ -1,8 +1,8 @@
 ### Hi there, I'm Rade - aka [Rideen][website] 👋
 
 ## I'm a Software Developer!
-- 🔭 I’m currently working on a secret Angular project!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on several private projects for clients
+- 🌱 I’m currently focused on improving my knowledge in frontend frameworks (Angular, React, Vue)
 - 👯 I’m looking to collaborate with other developers on interesting projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Aside from technology in general, I really love cars

@@ -31,7 +31,7 @@
 <br />
 <br />
 <img align="left" alt="MSSQL" width="26px" src="https://img.favpng.com/20/17/14/microsoft-sql-server-database-administrator-computer-icons-table-png-favpng-vWncX9MMc2n2j8rBMuaQTCVTt.jpg">
-<img align="left" alt="RavenDB" width="26px" src="https://lh3.googleusercontent.com/proxy/1qu0RSLPQ8mO-CSy8CJEcaPBqnE9s8Dfj-D45-vDq2TcSOu46bXVCwB05h8xceu2LVZU">
+<img align="left" alt="RavenDB" width="26px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_30e9c819f3fc162460f4ecf69a391b94/ravendb.png">
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />

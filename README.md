@@ -1,10 +1,10 @@
 ### Hi there, I'm Rade - aka [Rideen][website] 👋
 
-## I'm a Software Developer!
+## I'm a Full-stack Software Developer!
 - 🔭 I’m currently working on several private projects for clients
-- 🌱 I’m currently focused on improving my knowledge in frontend frameworks (Angular, React, Vue)
+- 🌱 I’m currently focused on improving my knowledge in React
 - 👯 I’m looking to collaborate with other developers on interesting projects
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Learn more amazing technologies
 - ⚡ Fun fact: Aside from technology in general, I really love cars
 
 ### Connect with me:
@@ -34,6 +34,7 @@
 <img align="left" alt="RavenDB" width="32px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_30e9c819f3fc162460f4ecf69a391b94/ravendb.png">
 <img align="left" alt="GraphQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Deno" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg" />
 <img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />

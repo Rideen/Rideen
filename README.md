@@ -16,18 +16,18 @@
 
 <br />
 
-### Languages and Tools:
-
+### Languages, Technologies and Tools:
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> - JavaScript <br /><br />
+<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> - React <br /><br />
+<img align="left" alt="Angular" width="32px" src="https://angular.io/assets/images/logos/angular/angular.png"> - Angular <br /><br />
+<img align="left" alt="Net" width="32px" src="https://img.favpng.com/22/12/24/net-framework-microsoft-windows-7-png-favpng-srUtzC1G9i7NYhfnduH4H5qkS.jpg">
+<img align="left" alt="CSharp" width="32px" src="https://w0.pngwave.com/png/328/221/c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-png-clip-art.png">
+<img align="left" alt="React Native" width="32px" src="https://www.pinpng.com/pngs/m/510-5100567_react-native-svg-transformer-allows-you-import-svg.png">
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Angular" width="32px" src="https://angular.io/assets/images/logos/angular/angular.png">
-<img align="left" alt="Net" width="32px" src="https://img.favpng.com/22/12/24/net-framework-microsoft-windows-7-png-favpng-srUtzC1G9i7NYhfnduH4H5qkS.jpg">
-<img align="left" alt="CSharp" width="32px" src="https://w0.pngwave.com/png/328/221/c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-png-clip-art.png">
-<img align="left" alt="React Native" width="32px" src="https://www.pinpng.com/pngs/m/510-5100567_react-native-svg-transformer-allows-you-import-svg.png">
+
 <br />
 <br />
 <img align="left" alt="MSSQL" width="32px" src="https://img.favpng.com/11/15/6/microsoft-sql-server-computer-servers-database-png-favpng-pzD2SR1BAwTySMjhNyv4dKRhQ.jpg">

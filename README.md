@@ -34,7 +34,7 @@
 <img align="left" alt="RavenDB" width="32px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_30e9c819f3fc162460f4ecf69a391b94/ravendb.png">
 <img align="left" alt="GraphQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg" />
+<img align="left" alt="Deno" width="32px" src="https://camo.githubusercontent.com/6bf8dcb7e2802232ad92cf5d562ebf153d858ed302b441e47b35e703b04bdaf6/68747470733a2f2f64656e6f6c69622e6769746875622e696f2f686967682d7265732d64656e6f2d6c6f676f2f64656e6f5f68722e706e67" />
 <img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />

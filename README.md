@@ -20,7 +20,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> - JavaScript <br /><br />
 <img align="left" alt="TypeScript" width="32px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png"> - TypeScript <br /><br />
 <img align="left" alt="Angular" width="32px" src="https://angular.io/assets/images/logos/angular/angular.png"> - Angular <br /><br />
-<img align="left" alt="Vue.js" width="32px" src="https://assets.stickpng.com/images/58482acecef1014c0b5e4a1e.png"> - Vue.js <br /><br />
+<img align="left" alt="Vue.js" width="32px" src="https://www.image-plus.co.uk/wp-content/uploads/2018/01/vue-js-logo-300x259.png"> - Vue.js <br /><br />
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> - React <br /><br />
 <img align="left" alt="Net" width="32px" src="https://img.favpng.com/22/12/24/net-framework-microsoft-windows-7-png-favpng-srUtzC1G9i7NYhfnduH4H5qkS.jpg"> - .NET Framework and .NET Core  <br /><br />
 <img align="left" alt="CSharp" width="32px" src="https://w0.pngwave.com/png/328/221/c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-png-clip-art.png"> - C#  <br /><br />

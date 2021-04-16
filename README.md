@@ -1,9 +1,9 @@
 ### Hi there, I'm Rade - aka [Rideen][website] 👋
 
 ## I'm a Full-stack Software Developer!
-- 🔭 I’m currently working on several private projects for clients
+- 🔭 I’m currently working on several projects
 - 🌱 I’m currently focused on improving my knowledge
-- 👯 I’m looking to collaborate with more clients on interesting projects - Contact me!
+- 👯 I’m looking to collaborate more on interesting projects
 - 🥅 2021 Goals: Learn more amazing technologies
 - ⚡ Fun fact: Aside from technology in general, I really love cars
 

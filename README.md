@@ -53,7 +53,10 @@
 <br />
 <br />
 
-<img align="left" alt="Rideen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rideen&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rideen&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rideen)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [website]: http://www.iterativesoft.com
 [twitter]: https://twitter.com/_Rideen_
